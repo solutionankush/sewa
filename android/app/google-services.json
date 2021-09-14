@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1093149205894",
+    "project_id": "sewa-app-snssraipur-9c4ba",
+    "storage_bucket": "sewa-app-snssraipur-9c4ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093149205894:android:26673f892318b8d790b807",
+        "android_client_info": {
+          "package_name": "com.snss.sewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093149205894-9tpc97rrqq9gos45vrivapi8mmlssnpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snss.sewa",
+            "certificate_hash": "7191d0daf37763c2cec0d6895e44e57e842bc2af"
+          }
+        },
+        {
+          "client_id": "1093149205894-53jcn4fksheb0gtbit655qbq6mfagvn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtkH3KSXA0rB256RkrydwcG2g2w0bBamU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093149205894-53jcn4fksheb0gtbit655qbq6mfagvn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
